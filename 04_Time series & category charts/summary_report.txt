@@ -1,0 +1,18 @@
+
+Total Records: 500
+Date Range: 2023-01-02 to 2024-12-30
+Total Sales: 1311276
+Average Daily Sales: 3789.82
+
+Sales by Category:
+category
+Electronics    413811
+Groceries      307311
+Clothing       306086
+Furniture      284068
+
+Best Performing Month:
+2024-10 with sales of 80309
+
+Best Performing Quarter:
+2023Q2 with sales of 199499

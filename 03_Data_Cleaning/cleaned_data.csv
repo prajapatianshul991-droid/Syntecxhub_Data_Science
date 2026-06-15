@@ -1,0 +1,9 @@
+id,name,age,salary,join_date,department,join_data
+1,Alice,25.0,50000.0,2021-01-15,hr,2021-01-15
+2,Bob,30.0,60000.0,2020-03-22,it,2020-03-22
+3,Charlie,28.0,55000.0,,finance,19-07-2019
+4,David,22.0,62500.0,,hr,unknown
+6,Eve,28.0,80000.0,,unknown,2021/05/10
+7,Frank,35.0,62500.0,2020-08-30,finance,2020-08-30
+8,Grace,27.0,65000.0,,hr,unknown
+9,Henry,28.0,72000.0,2023-02-14,it,2023-02-14

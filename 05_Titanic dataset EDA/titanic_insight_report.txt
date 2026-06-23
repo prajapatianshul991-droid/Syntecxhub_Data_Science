@@ -1,0 +1,18 @@
+
+TITANIC SURVIVAL ANALYSIS - INSIGHT REPORT
+===========================================
+
+- Female survival rate (74%) was much higher than male (18%) 
+  — "Women and children first" policy clearly followed.
+
+- 1st class passengers had highest survival rate (63%) vs 
+  3rd class (24%) — wealth played a major role in survival.
+
+- Children (0-12) had highest survival rate (58%) among age groups
+  — priority was given to younger passengers.
+
+- Seniors (60+) had lowest survival rate (22%) — possibly due to 
+  difficulty in evacuation.
+
+- Overall survival rate was only 38% — majority of passengers 
+  did not survive the disaster.
